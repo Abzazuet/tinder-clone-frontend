@@ -17,8 +17,7 @@
     "react-scripts": "5.0.1",
     "react-spring": "^9.6.1",
     "react-tinder-card": "^1.6.2",
-    "styled-components": "^5.3.6",
-    "web-vitals": "^2.1.4"
+    "styled-components": "^5.3.6"
   },
   "scripts": {
     "start": "react-scripts start",
